@@ -1,27 +1,3 @@
 {
-  "buildCommand": "npm run build",
-  "devCommand": "npm run dev",
-  "installCommand": "npm install",
-  "framework": "nextjs",
-  "outputDirectory": ".next",
-  "env": {
-    "NEXT_PUBLIC_FIREBASE_API_KEY": {
-      "value": "AIzaSyCcw5so1lwA8fn-UnWTo1TreCsAN8XumhY"
-    },
-    "NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN": {
-      "value": "studio-8200495018-c2379.firebaseapp.com"
-    },
-    "NEXT_PUBLIC_FIREBASE_PROJECT_ID": {
-      "value": "studio-8200495018-c2379"
-    },
-    "NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET": {
-      "value": "studio-8200495018-c2379.firebasestorage.app"
-    },
-    "NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID": {
-      "value": "136009588949"
-    },
-    "NEXT_PUBLIC_FIREBASE_APP_ID": {
-      "value": "1:136009588949:web:6f4cf53601d8a7554a425c"
-    }
-  }
+  "framework": "nextjs"
 }
